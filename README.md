@@ -1,6 +1,6 @@
 hello-world
 ===========
 
-Just a testing.
+Just another testing.
 
 Hey, I've made so changes here !
